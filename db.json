@@ -1,12 +1,12 @@
 {
   "posts": [
-    { "id": 1, "title": "Magnifico" },
-    { "id": 2, "title": "Hermoso" },
-    { "id": 3, "title": "los mejores" }
+    { "id": 0, "title": "Magnifico" },
+    { "id": 1, "title": "Hermoso" },
+    { "id": 2, "title": "los mejores" }
   ],
   "comments": [
-    { "id": 1, "body": "Los recomiendo, excelente compra", "postId": 1 },
-    { "id": 1, "body": "El mejor par de zapatos que he comprado", "postId": 2 },
-    { "id": 2, "body": "Le quedaron perfectos a mi bebe", "postId": 3 }
+    { "id": 0, "body": "Los recomiendo, excelente compra", "postId": 0 },
+    { "id": 1, "body": "El mejor par de zapatos que he comprado", "postId": 1 },
+    { "id": 2, "body": "Le quedaron perfectos a mi bebe", "postId": 2 }
   ]
 }
